@@ -1,0 +1,3 @@
+{:src ["src"]
+ :deps {org.clojure/clojurescript {:mvn/version "1.10.758"}
+        reagent/reagent {:mvn/version "1.0.0-alpha2"}}}
